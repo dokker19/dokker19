@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-👋 Hi, I’m @dokker19
-👀 I’m interested in software engineering
-🌱 I’m currently learning about advanced algorithms, parallel computing, and software development
-💻 I'm a currently a TA for Data Structures course at Johns Hopkins, as well as a former software engineering intern at Samsung.
+- 👋 Hi, I’m @dokker19
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning about advanced algorithms, parallel computing, and software development
+- 💻 I'm a currently a TA for Data Structures course at Johns Hopkins, as well as a former software engineering intern at Samsung.
 
-📫 How to reach me: dyang40@jh.edu
+- 📫 How to reach me: dyang40@jh.edu
 
 <!--
 **dokker19/dokker19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
