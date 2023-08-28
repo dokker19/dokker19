@@ -4,7 +4,6 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning about advanced algorithms, parallel computing, and software development
 - 💻 I'm a currently a TA for Data Structures course at Johns Hopkins, as well as a former software engineering intern at Samsung.
-
 - 📫 How to reach me: dyang40@jh.edu
 
 <!--
