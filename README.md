@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @dokker19
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning advanced algorithms, parallel computing, and software development
+- 👀 I’m interested in software engineering and finance
+- 🌱 I’m currently working at BMO - Clearpool Group, as a software engineering intern on their algorithmic trading team
 - 💻 I'm a currently a TA for Data Structures at Johns Hopkins, as well as a former software engineering intern at Samsung
-- 📫 How to reach me: dyang40@jh.edu
+- 📫 How to reach me: dyang40@jh.edu / 443-477-8794
 
 <!--
 **dokker19/dokker19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
