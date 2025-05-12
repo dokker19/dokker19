@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @dokker19
 - 👀 I’m interested in software engineering and finance
-- 🌱 I’m currently working at BMO - Clearpool Group, as a software engineering intern on their algorithmic trading team
-- 💻 I'm a currently a TA for Data Structures at Johns Hopkins, as well as a former software engineering intern at Samsung
+- 💻 I'm an Software Development Engineer @Amazon. I've also previosly interned as a software engineering intern at Samsung, as well as an algorithm developer at a and Clearpool Algorithmic Managemetn System at the Bank of Montreal (BMO). 
+- 🎓I stuided Computer Science and Applied Math & Statistifcs @Johns Hopkins. I was a TA for Data Structures and Mathematical Foundations for Computer Science courses. 
 - 📫 How to reach me: dyang40@jh.edu / 443-477-8794
 
 <!--
