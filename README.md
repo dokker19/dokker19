@@ -2,9 +2,10 @@
 
 - 👋 Hi, I’m @dokker19
 - 👀 I’m interested in software engineering and finance
-- 💻 I'm an Software Development Engineer @Amazon. I've also previosly interned as a software engineering intern at Samsung, as well as an algorithm developer at a and Clearpool Algorithmic Managemetn System at the Bank of Montreal (BMO). 
-- 🎓I stuided Computer Science and Applied Math & Statistifcs @Johns Hopkins. I was a TA for Data Structures and Mathematical Foundations for Computer Science courses. 
-- 📫 How to reach me: dyang40@jh.edu / 443-477-8794
+- 💻 I'm a Software Development Engineer @Amazon
+- 👨‍💻 I've previosly worked as a software engineering intern @Samsung, as well as an algorithm developer intern @Clearpool Group Algorithmic Management System, which is now a part of the Bank of Montreal (BMO)
+- 🎓I stuided Computer Science and Applied Math & Statistifcs @Johns Hopkins. I was a TA for Data Structures and Mathematical Foundations for Computer Science
+- 📫 How to reach me: dkyang1023@gmail.com / dyang40@jh.edu / 443-477-8794
 
 <!--
 **dokker19/dokker19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
